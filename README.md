@@ -48,6 +48,9 @@ pip install opencv-python mediapipe pyserial
 
 ## 🔌 Conexión de LEDs al Arduino
 
+![Amazing Jarv](https://github.com/user-attachments/assets/79b0893c-3ec4-4d5d-bccb-c016c62da524)
+
+
 | LED | Pin Arduino |
 |-----|-------------|
 | 1   | D2          |
