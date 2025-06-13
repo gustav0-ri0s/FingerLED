@@ -65,9 +65,9 @@ Cada LED debe conectarse en serie con una resistencia de 220Ω hacia GND.
 1. Conecta Arduino por USB y carga el código `.ino`.
 2. Ejecuta el script de Python:
    ```bash
-   python fingerled.py
+   python fingers.py
    ```
-3. Levanta de 0 a 5 dedos frente a la cámara.
+3. Levanta de 0 a 5 dedos frente a la cámara (mano derecha).
 4. Verifica cómo se encienden los LEDs.
 5. Presiona `ESC` para cerrar.
 
@@ -75,7 +75,9 @@ Cada LED debe conectarse en serie con una resistencia de 220Ω hacia GND.
 
 ## 📸 Demo
 
-> Puedes insertar aquí una imagen o GIF del sistema funcionando, o un enlace a tu video de TikTok.
+![WhatsApp Image 2025-06-13 at 00 59 14](https://github.com/user-attachments/assets/bd4d0d66-ef4b-40f0-8d82-5cd9070408f0)
+
+https://github.com/user-attachments/assets/0d4cfd28-bd37-4b1c-8235-86d22ec7a14a
 
 ---
 
