@@ -84,6 +84,10 @@ https://github.com/user-attachments/assets/0d4cfd28-bd37-4b1c-8235-86d22ec7a14a
 
 ---
 
+## Variaciones
+
+Se agregó un nuevo archivo en python para usar ambas manos y hacer una resta (dedos de mano derecha - dedos de mano izquierda)
+
 ## 📚 Créditos
 
 Desarrollado por Gustavo Rios Quevedo 
